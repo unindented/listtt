@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "Listtt",
+    "slug": "listtt",
+    "description": "Organize your life.",
+    "version": "0.0.0",
+    "platforms": ["android", "ios", "web"],
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "backgroundColor": "#fe4365",
+      "resizeMode": "cover"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "packagerOpts": {
+      "config": "metro.config.js"
+    },
+    "android": {
+      "package": "org.unindented.listtt",
+      "versionCode": 0,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/android.icon.png",
+        "backgroundColor": "#fe4365"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "org.unindented.listtt",
+      "buildNumber": "0.0.0",
+      "icon": "./assets/ios.icon.png",
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "startUrl": "/listtt/?utm_source=web_app_manifest",
+      "themeColor": "#fe4365",
+      "backgroundColor": "#fe4365"
+    }
+  }
+}

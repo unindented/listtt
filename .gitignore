@@ -1,0 +1,11 @@
+__generated__/
+.expo/
+.expo-shared/
+coverage/
+node_modules/
+web-build/
+web-report/
+.DS_Store
+*.log
+*~
+~$*

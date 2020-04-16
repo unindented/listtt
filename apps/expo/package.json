@@ -1,0 +1,29 @@
+{
+  "name": "@listtt/expo-app",
+  "description": "Organize your life.",
+  "version": "0.0.0-development",
+  "homepage": "https://unindented.github.io/listtt/",
+  "private": true,
+  "main": "__generated__/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "start:android": "expo start --android",
+    "start:ios": "expo start --ios",
+    "start:web": "expo start --web",
+    "build:android": "expo build:android",
+    "build:ios": "expo build:ios",
+    "build:web": "expo build:web",
+    "publish": "expo publish",
+    "predeploy": "yarn build:web",
+    "deploy": "gh-pages -d web-build",
+    "postinstall": "expo-yarn-workspaces postinstall"
+  },
+  "dependencies": {
+    "expo": "37.0.7",
+    "react": "16.9.0",
+    "react-dom": "16.9.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-37.0.1.tar.gz",
+    "react-native-screens": "2.7.0",
+    "react-native-web": "0.11.7"
+  }
+}
