@@ -20,15 +20,15 @@ self.__precacheManifest = [
     "url": "/listtt/expo-service-worker.js"
   },
   {
-    "revision": "54e888f0f7e5cb08297607e86ec6ae37",
+    "revision": "842a2a4518787942d1c7b1c8468ba879",
     "url": "/listtt/favicon-16.png"
   },
   {
-    "revision": "c87f82c459db9ea904ddbc8110e94d67",
+    "revision": "d9f9696430a646fc6863afe25bbb8b91",
     "url": "/listtt/favicon-32.png"
   },
   {
-    "revision": "79cdf682cedbd8d3d19b36e3883b3060",
+    "revision": "d3bdfa5380b5c64e38c2f0d9b320d3b5",
     "url": "/listtt/favicon.ico"
   },
   {
