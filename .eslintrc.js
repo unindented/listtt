@@ -130,10 +130,20 @@ module.exports = {
     "prefer-promise-reject-errors": ["error"],
     "prefer-regex-literals": ["error"],
     radix: ["error"],
+    "react/prop-types": "off",
     "require-atomic-updates": ["error"],
     "require-unicode-regexp": ["error"],
     "sort-imports": ["error", { ignoreDeclarationSort: true }],
     "wrap-iife": ["error"],
     yoda: ["error"],
   },
+  overrides: [
+    {
+      files: "**/*.test.{ts,tsx}",
+      rules: {
+        "@typescript-eslint/no-unsafe-call": "off",
+        "@typescript-eslint/no-unsafe-return": "off",
+      },
+    },
+  ],
 };

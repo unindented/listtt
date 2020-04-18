@@ -4,8 +4,10 @@
     "slug": "listtt",
     "description": "Organize your life.",
     "version": "0.0.0",
+    "githubUrl": "https://github.com/unindented/listtt",
     "platforms": ["android", "ios", "web"],
     "orientation": "portrait",
+    "primaryColor": "#fe4365",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",

@@ -8,5 +8,5 @@ module.exports = {
       statements: 100,
     },
   },
-  projects: ["apps/*"],
+  projects: ["libs/*", "apps/*"],
 };

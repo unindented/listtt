@@ -19,10 +19,11 @@
     "postinstall": "expo-yarn-workspaces postinstall"
   },
   "dependencies": {
-    "expo": "37.0.7",
+    "expo": "37.0.8",
     "react": "16.9.0",
     "react-dom": "16.9.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-37.0.1.tar.gz",
+    "react-native-appearance": "0.3.3",
     "react-native-screens": "2.7.0",
     "react-native-web": "0.11.7"
   }
