@@ -4,7 +4,7 @@
   "lang": "en",
   "name": "Listtt",
   "short_name": "Listtt",
-  "start_url": "/?utm_source=web_app_manifest",
+  "start_url": "/listtt/?utm_source=web_app_manifest",
   "theme_color": "#fe4365",
   "orientation": "portrait",
   "related_applications": [
