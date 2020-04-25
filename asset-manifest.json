@@ -1,21 +1,24 @@
 {
   "files": {
-    "app.js": "/listtt/static/js/app.9f7c87b0.chunk.js",
-    "app.js.map": "/listtt/static/js/app.9f7c87b0.chunk.js.map",
-    "runtime~app.js": "/listtt/static/js/runtime~app.9ba18dec.js",
-    "runtime~app.js.map": "/listtt/static/js/runtime~app.9ba18dec.js.map",
-    "static/js/2.edcd82ef.chunk.js": "/listtt/static/js/2.edcd82ef.chunk.js",
-    "static/js/2.edcd82ef.chunk.js.map": "/listtt/static/js/2.edcd82ef.chunk.js.map",
+    "app.js": "/listtt/static/js/app.8cb914fa.chunk.js",
+    "app.js.map": "/listtt/static/js/app.8cb914fa.chunk.js.map",
+    "runtime~app.js": "/listtt/static/js/runtime~app.629a38fd.js",
+    "runtime~app.js.map": "/listtt/static/js/runtime~app.629a38fd.js.map",
+    "static/js/2.8e70df7e.chunk.js": "/listtt/static/js/2.8e70df7e.chunk.js",
+    "static/js/2.8e70df7e.chunk.js.map": "/listtt/static/js/2.8e70df7e.chunk.js.map",
     "favicon-16.png": "/listtt/favicon-16.png",
     "favicon-32.png": "/listtt/favicon-32.png",
     "favicon.ico": "/listtt/favicon.ico",
     "index.html": "/listtt/index.html",
     "manifest.json": "/listtt/manifest.json",
-    "serve.json": "/listtt/serve.json"
+    "serve.json": "/listtt/serve.json",
+    "service-worker.js.map": "/listtt/service-worker.js.map",
+    "workbox-be95467c.js": "/listtt/workbox-be95467c.js",
+    "workbox-be95467c.js.map": "/listtt/workbox-be95467c.js.map"
   },
   "entrypoints": [
-    "static/js/runtime~app.9ba18dec.js",
-    "static/js/2.edcd82ef.chunk.js",
-    "static/js/app.9f7c87b0.chunk.js"
+    "static/js/runtime~app.629a38fd.js",
+    "static/js/2.8e70df7e.chunk.js",
+    "static/js/app.8cb914fa.chunk.js"
   ]
 }
