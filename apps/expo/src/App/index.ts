@@ -1,1 +1,1 @@
-export { default } from "./AppWithAppearance";
+export { default } from "./AppWithTranslations";
